@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_04095c407af4a6f9000c1a1f31dbba89012cc79d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_41db6e0c5ef519c1d7d9f1e85a95d9a3693acc57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d5d399c05a81691cdc6300c423089a78f154f1e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_fe905848cfe35b4bbfa4c6f782b8c8015dc182b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_050a328100e57f3f3c2775aef37b13cb001709c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/madelynreyes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/madelynreyes/Desktop/Quacker/QuackerO/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_53f54b97ea015d792f5096b742c6024552149650.jar" />
+    </item>
+
+</items>

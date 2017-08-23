@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuackerO</string>
+    <string name="bryce">Bryce</string>
+    <string name="connor">Connor</string>
+    <string name="zach">Zach</string>
+    <string name="kim">Kim</string>
+    <string name="susanna">Susanna</string>
+    <string name="aidan">Aidan</string>
+    <string name="woo">Woo</string>
+    <string name="bri">Bri</string>
+    <string name="elizabeth">Elizabeth</string>
+    <string name="nathan">Nathan</string>
+    <string name="madelyn">Madelyn</string>
+    <string name="avery">Avery</string>
+
+</resources>
